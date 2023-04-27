@@ -1,5 +1,6 @@
-<?php
-    require_once "../vendor/autoload.php";
-    echo 'Teste miniframework';
+ <?php
 
+    require_once "../vendor/autoload.php";
+    $route = new \App\Route;
+    
 ?>
